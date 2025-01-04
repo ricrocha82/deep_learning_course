@@ -1,2 +1,2 @@
-# deep learning using TensorFlow
-codes that I learned in my TensorFlow course
+# Deep learning using TensorFlow
+codes of my TensorFlow course
